@@ -1,16 +1,16 @@
 # 💫 Hi 👋, I'm Ghulam Mujtaba
 **A passionate AI Engineer || ML Engineer || from Braunschweig, Germany**
 
-Email Me 👉 ✉️ **mr.ghulaamm@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **mr.ghulaamm@gmail.com** For Collaboration/Project or Anything Else. 😊
 
 - 🔭 **I’m currently working on:** Facial Recognition (Facial Recognition System)
 - 🌱 **I’m currently learning:** AI, ML and DL
 - 👯 **I’m looking to collaborate on:** Facial Recognition (Facial Recognition System)
 - 🤔 **I’m looking for help with:** Facial Recognition (Facial Recognition System)
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** mr.ghulaamm@gmail.com
 - 😄 **Pronouns:** Ghulam
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me ♥️
 -->
 
 
@@ -19,7 +19,12 @@ Email Me 👉 ✉️ **mr.ghulaamm@gmail.com** For Collaboration/Project or Anyt
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iam.ghulamm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.ghulam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulammjtba) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iam.ghulam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iam_ghulamm) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@iam.ghulam) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iam.ghulamm) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.ghulam) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulammjtba) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iam.ghulam) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iam_ghulamm) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@iam.ghulam) 
 
 
 <!-- Snake Game Repo View -->
