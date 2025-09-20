@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ghulam Mujtaba
-**A passionate AI Engineer || ML Engineer || from Braunschweig, Germany**
+**A passionate Data Scientist Fokus on AI & ML from Braunschweig, Germany**
 
 Email Me 👉 ✉️ **mr.ghulaamm@gmail.com** For Collaboration/Project or Anything Else. 😊
 
