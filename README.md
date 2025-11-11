@@ -9,11 +9,6 @@
   </a>
 </p>
 
-<!-- Confetti Welcome GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="240" alt="Confetti Welcome"/>
-</p>
-
 <!-- Hand Wave GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/wave.gif" width="60px" height="60px"/>
@@ -31,13 +26,6 @@ I love turning data into business value and building real ML projects.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
-</p>
-
-<!-- Confetti Button (leitet später auf Party-Seite) -->
-<p align="center">
-  <a href="https://iam-ghulam.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Press%20for%20Confetti-00F7FF?style=for-the-badge&logo=funimation&logoColor=000&labelColor=111" alt="Confetti Button"/>
-  </a>
 </p>
 
 ---
