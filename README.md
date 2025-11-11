@@ -112,14 +112,7 @@ I love turning data into business value and building real ML projects.
 ---
 
 ### ⭐ Fun Fact  
-I love combining technology and problem-solving to create AI solutions that matter.
-
----
-
-### 🐍 Snake Game
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+I build practical AI and ML projects that solve real problems.
 
 ---
 
