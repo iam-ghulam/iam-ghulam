@@ -6,28 +6,28 @@ Open to collaboration, internships, and real-world ML projects.
 
 ---
 
-### 🚀 Currently working on
-- Building my Data Science portfolio with supervised ML projects
-- Model evaluation, classification & hyperparameter tuning
+### 🚀 Currently Working On
+- Building my Data Science portfolio with supervised ML projects  
+- Model evaluation, classification & hyperparameter tuning  
 - First steps into cloud deployment with Docker & AWS
 
 ---
 
-### 📚 Currently learning
+### 📚 Currently Learning
 - Deep Learning fundamentals  
 - Data visualization (Plotly, Tableau)  
 - Machine learning pipeline best practices
 
 ---
 
-### 🤝 Open for collaboration
-- Beginner-friendly ML projects
-- Data dashboards & visualization
+### 🤝 Open for Collaboration
+- Beginner-friendly ML projects  
+- Data dashboards & visualization  
 - Business analytics for small companies (SEO + social insights)
 
 ---
 
-### 💬 You can ask me about
+### 💬 You Can Ask Me About
 - Python for Data Science  
 - Machine learning basics  
 - Marketing analytics & SEO (previous experience)
@@ -39,31 +39,6 @@ Open to collaboration, internships, and real-world ML projects.
 🔗 **linkedin.com/in/ghulammjtba**
 
 ---
-
-### ⭐ Fun fact  
-I love turning data into real business value — and Python makes it fun. 😄
-
----
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iam-ghulam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulammjtba) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.ghulam)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iam.ghulam) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@iam.ghulam) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iam_ghulamm) 
-
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
@@ -81,23 +56,51 @@ I love turning data into real business value — and Python makes it fun. 😄
 
 ---
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iam-ghulam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=iam-ghulam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ghulam&theme=dark&hide_border=false&layout=compact)
 
 ---
 
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulammjtba) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.ghulam)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iam.ghulam) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@iam.ghulam) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iam_ghulamm) 
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iam-ghulam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+### ⭐ Fun Fact  
+I love turning data into real business value — and Python makes it fun. 😄
+
+---
+
+### 🐍 Snake Game
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=iam-ghulam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Ghulam1999) 
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💰 Support Me
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Ghulam1999)
