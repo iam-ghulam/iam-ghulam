@@ -21,8 +21,14 @@
 📩 Reach me at: **mr.ghulaamm@gmail.com**  
 Open to collaboration, internships, and real-world ML projects.
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-<br><br>
+I'm a motivated Data Science learner with a background in IT & marketing.  
+I love turning data into business value and building real ML projects.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
+</p>
+
+---
 
 ### 🚀 Currently Working On
 - Building my Data Science portfolio with supervised ML projects  
@@ -38,8 +44,15 @@ Open to collaboration, internships, and real-world ML projects.
 
 ---
 
+### ✅ Available For
+- Internships  
+- Junior Data Science roles  
+- Collaboration on ML projects  
+
+---
+
 ### 🤝 Open for Collaboration
-- Beginner-friendly ML projects  
+- Beginner-friendly machine learning projects  
 - Data dashboards & visualization  
 - Business analytics for small companies (SEO + social insights)
 
@@ -105,7 +118,7 @@ Open to collaboration, internships, and real-world ML projects.
 ---
 
 ### ⭐ Fun Fact  
-I love turning data into real business value — and Python makes it fun. 😄
+I love combining tech + business thinking to create AI solutions that matter. 😄
 
 ---
 
