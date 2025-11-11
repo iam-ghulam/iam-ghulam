@@ -21,11 +21,8 @@
 📩 Reach me at: **mr.ghulaamm@gmail.com**  
 Open to collaboration, internships, and real-world ML projects.
 
----
-- Coding Vibe
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 <br><br>
----
 
 ### 🚀 Currently Working On
 - Building my Data Science portfolio with supervised ML projects  
