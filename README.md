@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ghulam Mujtaba  
-**Entry-Level Data Scientist (ML & AI) — Braunschweig, Germany**
+**Entry-Level Data Scientist (Machine Learning & Deep Learning) — Braunschweig, Germany**
 
 📩 Reach me at: **mr.ghulaamm@gmail.com**  
 Open to collaboration, internships, and real-world ML projects.
