@@ -45,7 +45,6 @@ I love turning data into business value and building real ML projects.
 ---
 
 ### ✅ Available For
-- Internships  
 - Junior Data Science roles  
 - Collaboration on ML projects  
 
