@@ -16,9 +16,6 @@
 
 ---
 
-
-
-# 💫 Hi 👋, I'm Ghulam Mujtaba  
 **Entry-Level Data Scientist (Machine Learning & Deep Learning) — Braunschweig, Germany**
 
 📩 Reach me at: **mr.ghulaamm@gmail.com**  
