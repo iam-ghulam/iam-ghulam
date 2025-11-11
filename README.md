@@ -5,7 +5,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=iam-ghulam">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=Entry-Level+Data+Scientist;Machine+Learning+%7C+Deep+Learning;Turning+Data+into+Business+Value;Always+Learning+More+🚀" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=Entry-Level+Data+Scientist;Machine+Learning+%7C+Artificial+Intelligence;Turning+Data+into+Business+Value;Always+Learning+More+🚀" alt="Typing Animation"/>
   </a>
 </p>
 
