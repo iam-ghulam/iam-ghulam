@@ -9,6 +9,15 @@
   </a>
 </p>
 
+<!-- Socials right below typing animation -->
+<p align="center">
+  <a href="https://linkedin.com/in/ghulammjtba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/iam.ghulam" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://tiktok.com/@iam.ghulam" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://youtube.com/@iam.ghulam" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://x.com/iam_ghulamm" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+</p>
+
 <!-- Hand Wave GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/wave.gif" width="60px" height="60px"/>
@@ -94,15 +103,6 @@ I love turning data into business value and building real ML projects.
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=iam-ghulam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ghulam&theme=dark&hide_border=false&layout=compact)
-
----
-
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulammjtba) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.ghulam)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iam.ghulam) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@iam.ghulam) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iam_ghulamm) 
 
 ---
 
