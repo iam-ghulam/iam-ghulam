@@ -102,5 +102,9 @@ I love turning data into real business value — and Python makes it fun. 😄
 
 ---
 
-### 💰 Support Me
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Ghulam1999)
+---
+
+### ☕ Buy Me a Coffee
+If you like my work or want to support my learning journey:
+
+[![PayPal](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/Ghulam1999)
