@@ -1,17 +1,49 @@
-# 💫 Hi 👋, I'm Ghulam Mujtaba
-**A passionate Data Scientist Fokus on AI & ML from Braunschweig, Germany**
+# 💫 Hi 👋, I'm Ghulam Mujtaba  
+**Entry-Level Data Scientist (ML & AI) — Braunschweig, Germany**
 
-Email Me 👉 ✉️ **mr.ghulaamm@gmail.com** For Collaboration/Project or Anything Else. 😊
+📩 Reach me at: **mr.ghulaamm@gmail.com**  
+Open to collaboration, internships, and real-world ML projects.
 
-- 🔭 **I’m currently working on:** Facial Recognition (Facial Recognition System)
-- 🌱 **I’m currently learning:** AI, ML and DL
-- 👯 **I’m looking to collaborate on:** Facial Recognition (Facial Recognition System)
-- 🤔 **I’m looking for help with:** Facial Recognition (Facial Recognition System)
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** mr.ghulaamm@gmail.com
-- 😄 **Pronouns:** Ghulam
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me ♥️
--->
+---
+
+### 🚀 Currently working on
+- Building my Data Science portfolio with supervised ML projects
+- Model evaluation, classification & hyperparameter tuning
+- First steps into cloud deployment with Docker & AWS
+
+---
+
+### 📚 Currently learning
+- Deep Learning fundamentals  
+- Data visualization (Plotly, Tableau)  
+- Machine learning pipeline best practices
+
+---
+
+### 🤝 Open for collaboration
+- Beginner-friendly ML projects
+- Data dashboards & visualization
+- Business analytics for small companies (SEO + social insights)
+
+---
+
+### 💬 You can ask me about
+- Python for Data Science  
+- Machine learning basics  
+- Marketing analytics & SEO (previous experience)
+
+---
+
+### 📫 Contact
+📧 **mr.ghulaamm@gmail.com**  
+🔗 **linkedin.com/in/ghulammjtba**
+
+---
+
+### ⭐ Fun fact  
+I love turning data into real business value — and Python makes it fun. 😄
+
+---
 
 
 ## 🏆 GitHub Trophies
@@ -19,12 +51,11 @@ Email Me 👉 ✉️ **mr.ghulaamm@gmail.com** For Collaboration/Project or Anyt
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iam.ghulamm) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.ghulam) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulammjtba) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.ghulam)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iam.ghulam) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iam_ghulamm) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@iam.ghulam) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iam_ghulamm) 
 
 
 <!-- Snake Game Repo View -->
@@ -34,13 +65,27 @@ Email Me 👉 ✉️ **mr.ghulaamm@gmail.com** For Collaboration/Project or Anyt
 </div>
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iam-ghulam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iam-ghulam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ghulam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243.svg?logo=matplotlib&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192.svg?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)
 
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=iam-ghulam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ghulam&theme=dark&hide_border=false&layout=compact)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
