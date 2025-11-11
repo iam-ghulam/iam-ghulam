@@ -20,7 +20,7 @@
 
 ---
 
-**Entry-Level Data Scientist (Machine Learning & Deep Learning) — Braunschweig, Germany**
+**Entry-Level Data Scientist (AI & ML) — Braunschweig, Germany**
 
 📩 Reach me at: **mr.ghulaamm@gmail.com**  
 Open to collaboration, internships, and real-world ML projects.
@@ -62,9 +62,9 @@ I love turning data into business value and building real ML projects.
 ---
 
 ### 💬 You Can Ask Me About
-- Python for Data Science  
-- Machine learning basics  
-- Marketing analytics & SEO (previous experience)
+- Python for Data Science
+- Machine Learning
+- Artificial Intelligence
 
 ---
 
@@ -112,7 +112,7 @@ I love turning data into business value and building real ML projects.
 ---
 
 ### ⭐ Fun Fact  
-I love combining tech + business thinking to create AI solutions that matter. 😄
+I love combining technology and problem-solving to create AI solutions that matter.
 
 ---
 
