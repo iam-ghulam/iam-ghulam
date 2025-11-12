@@ -91,11 +91,11 @@ I love turning data into business value and building real ML projects.
 ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iam-ghulam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=iam-ghulam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=iam-ghulam&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ghulam&theme=dark&hide_border=false&layout=compact)
 
 ---
